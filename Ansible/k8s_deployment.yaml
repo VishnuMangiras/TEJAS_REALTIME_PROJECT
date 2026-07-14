@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: mc-app
-        image: tejasdocker571/k8s:12
+        image: tejasdocker571/k8s:13
         ports:
         - containerPort: 8080
 ---
